@@ -1,0 +1,4 @@
+[preview]
+cache_dir = "~/.cache/yazi"
+max_width = 600
+max_height = 600
